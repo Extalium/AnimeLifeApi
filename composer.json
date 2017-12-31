@@ -1,0 +1,14 @@
+{
+    "name": "augle/webprojecttest",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Augustin Leroy",
+            "email": "aug.leroy@gmail.com"
+        }
+    ],
+    "require": {
+    	"bcosca/fatfree": "3.6.2",
+    	"twbs/bootstrap" : "3.3.7"
+    }
+}   
